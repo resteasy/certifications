@@ -1,0 +1,56 @@
+= TCK Results
+:ext-relative: {outfilesuffix}
+:imagesdir: ../../images/
+
+image:resteasy_logo_100x.png[RESTeasy, align="center"]
+
+[[introduction]]
+== Introduction
+As required by the https://www.eclipse.org/legal/tck.php[Eclipse Foundation Technology Compatibility Kit License], the
+following is a summary of the TCK results for release of RESTEasy 7.0.0.Alpha1.
+
+
+=== RESTEasy, Certification Summary
+* Date:  April 2, 2024
+
+* Organization Name: Red Hat, Inc.
+
+* Product Information
+** Product Name:  RESTEasy
+** Product Version: RESTEasy 7.0.0.Alpha1
+** URL to product download page:
+*** https://repository.jboss.org/org/jboss/resteasy/resteasy-cdi/7.0.0.Alpha1/resteasy-cdi-7.0.0.Alpha1.jar
+*** https://repository.jboss.org/org/jboss/resteasy/resteasy-client/7.0.0.Alpha1/resteasy-client-7.0.0.Alpha1.jar
+*** https://repository.jboss.org/org/jboss/resteasy/resteasy-client-api/7.0.0.Alpha1/resteasy-client-api-7.0.0.Alpha1.jar
+*** https://repository.jboss.org/org/jboss/resteasy/resteasy-core/7.0.0.Alpha1/resteasy-core-7.0.0.Alpha1.jar
+*** https://repository.jboss.org/org/jboss/resteasy/resteasy-core-spi/7.0.0.Alpha1/resteasy-core-spi-7.0.0.Alpha1.jar
+*** https://repository.jboss.org/org/jboss/resteasy/resteasy-jaxb-provider/7.0.0.Alpha1/resteasy-jaxb-provider-7.0.0.Alpha1.jar
+*** https://repository.jboss.org/org/jboss/resteasy/resteasy-json-binding-provider/7.0.0.Alpha1/resteasy-json-binding-provider-7.0.0.Alpha1.jar
+*** https://repository.jboss.org/org/jboss/resteasy/resteasy-json-p-provider/7.0.0.Alpha1/resteasy-json-p-provider-7.0.0.Alpha1.jar
+*** https://repository.jboss.org/org/jboss/resteasy/resteasy-multipart-provider/7.0.0.Alpha1/resteasy-multipart-provider-7.0.0.Alpha1.jar
+*** https://repository.jboss.org/org/jboss/resteasy/resteasy-validator-provider/7.0.0.Alpha1/resteasy-validator-provider-7.0.0.Alpha1.jar
+
+* Java SE provider and Version tested with:  OpenJDK Runtime Environment (Red_Hat-21.0.2.0.13-2) (build 21.0.2+13)
+
+* OS version: Fedora Linux 39 (Workstation Edition)
+
+* Specification Name, Version and download URL:
+https://jakarta.ee/specifications/restful-ws/4.0/[Jakarta RESTful Web Services 4.0]
+
+* TCK Version, digital SHA-256 fingerprint and download URL:
+https://download.eclipse.org/ee4j/restful-ws/tck/eftl/jakarta-restful-ws-tck-4.0.0.zip[Jakarta RESTful Web Services TCK 4.0.0], SHA-256: 9494caaf67a3e5524a5ee1d6e4b749782ca1cbc920c6451583b6249e51c4ac18 ]
+
+* Any Additional Specification Certification Requirements: None
+
+* Public URL of TCK Results Summary: link:tck-results/jdk-21.txt[RESTEasy 7.0.0.Alpha1 TCK results]
+
+* [x] By checking this box I acknowledge that the Organization I represent accepts the terms of the https://www.eclipse.org/legal/tck.php[EFTL] .
+
+* [x] By checking this box I attest that all TCK requirements have been met, including any compatibility rules.
+
+=== Test Results:
+----
+Number of Tests Passed      = 2675
+Number of Tests Failed      = 0
+Number of Tests with Errors = 0
+----

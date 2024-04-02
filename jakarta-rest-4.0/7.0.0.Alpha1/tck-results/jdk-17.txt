@@ -1,0 +1,193 @@
+openjdk version "17.0.9" 2023-10-17
+OpenJDK Runtime Environment (Red_Hat-17.0.9.0.9-4) (build 17.0.9+9)
+OpenJDK 64-Bit Server VM (Red_Hat-17.0.9.0.9-4) (build 17.0.9+9, mixed mode, sharing)
+
+Passed Tests:
+Total passed for ee.jakarta.tck.ws.rs.api.client.client.JAXRSClientIT: 49
+Total passed for ee.jakarta.tck.ws.rs.api.client.clientbuilder.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.api.client.clientrequestcontext.JAXRSClientIT: 42
+Total passed for ee.jakarta.tck.ws.rs.api.client.clientresponsecontext.JAXRSClientIT: 29
+Total passed for ee.jakarta.tck.ws.rs.api.client.entity.JAXRSClientIT: 17
+Total passed for ee.jakarta.tck.ws.rs.api.client.invocation.JAXRSClientIT: 26
+Total passed for ee.jakarta.tck.ws.rs.api.client.invocationcallback.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.api.client.responseprocessingexception.JAXRSClientIT: 11
+Total passed for ee.jakarta.tck.ws.rs.api.client.webtarget.JAXRSClientIT: 47
+Total passed for ee.jakarta.tck.ws.rs.api.rs.badrequestexception.JAXRSClientIT: 12
+Total passed for ee.jakarta.tck.ws.rs.api.rs.bindingpriority.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.api.rs.clienterrorexception.JAXRSClientIT: 32
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.abstractmultivaluedmap.JAXRSClientIT: 32
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.cachecontrol.JAXRSClientIT: 14
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.configurable.JAXRSClientIT: 4
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.configuration.JAXRSClientIT: 17
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.cookie.JAXRSClientIT: 10
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.entitytag.JAXRSClientIT: 6
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.form.JAXRSClientIT: 3
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.genericentity.JAXRSClientIT: 11
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.generictype.JAXRSClientIT: 5
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.link.JAXRSClientIT: 32
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.linkbuilder.JAXRSClientIT: 32
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.mediatype.JAXRSClientIT: 20
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.multivaluedhashmap.JAXRSClientIT: 10
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.multivaluedmap.JAXRSClientIT: 17
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.newcookie.JAXRSClientIT: 31
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.nocontentexception.JAXRSClientIT: 4
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.responsebuilder.BuilderClientIT: 97
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.responseclient.JAXRSClientIT: 85
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.responsestatustype.JAXRSClientIT: 4
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.uribuilder.JAXRSClientIT: 125
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.variant.JAXRSClientIT: 16
+Total passed for ee.jakarta.tck.ws.rs.api.rs.core.variantlistbuilder.JAXRSClientIT: 6
+Total passed for ee.jakarta.tck.ws.rs.api.rs.ext.interceptor.reader.interceptorcontext.JAXRSClientIT: 17
+Total passed for ee.jakarta.tck.ws.rs.api.rs.ext.interceptor.reader.readerinterceptorcontext.JAXRSClientIT: 7
+Total passed for ee.jakarta.tck.ws.rs.api.rs.ext.runtimedelegate.create.JAXRSClientIT: 12
+Total passed for ee.jakarta.tck.ws.rs.api.rs.ext.runtimedelegate.setinstance.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.api.rs.forbiddenexception.JAXRSClientIT: 12
+Total passed for ee.jakarta.tck.ws.rs.api.rs.internalservererrorexception.JAXRSClientIT: 12
+Total passed for ee.jakarta.tck.ws.rs.api.rs.notacceptableexception.JAXRSClientIT: 12
+Total passed for ee.jakarta.tck.ws.rs.api.rs.notallowedexception.JAXRSClientIT: 20
+Total passed for ee.jakarta.tck.ws.rs.api.rs.notauthorizedexception.JAXRSClientIT: 14
+Total passed for ee.jakarta.tck.ws.rs.api.rs.notfoundexception.JAXRSClientIT: 12
+Total passed for ee.jakarta.tck.ws.rs.api.rs.notsupportedexception.JAXRSClientIT: 1
+Total passed for ee.jakarta.tck.ws.rs.api.rs.processingexception.JAXRSClientIT: 11
+Total passed for ee.jakarta.tck.ws.rs.api.rs.redirectexception.JAXRSClientIT: 16
+Total passed for ee.jakarta.tck.ws.rs.api.rs.runtimetype.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.api.rs.servererrorexception.JAXRSClientIT: 32
+Total passed for ee.jakarta.tck.ws.rs.api.rs.serviceunavailableexception.JAXRSClientIT: 1
+Total passed for ee.jakarta.tck.ws.rs.api.rs.webapplicationexceptiontest.JAXRSClientIT: 14
+Total passed for ee.jakarta.tck.ws.rs.ee.resource.java2entity.JAXRSClientIT: 4
+Total passed for ee.jakarta.tck.ws.rs.ee.resource.webappexception.defaultmapper.DefaultExceptionMapperIT: 1
+Total passed for ee.jakarta.tck.ws.rs.ee.resource.webappexception.mapper.JAXRSClientIT: 11
+Total passed for ee.jakarta.tck.ws.rs.ee.resource.webappexception.nomapper.JAXRSClientIT: 14
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.beanparam.cookie.plain.JAXRSClientIT: 16
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.beanparam.form.plain.JAXRSClientIT: 18
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.beanparam.header.plain.JAXRSClientIT: 16
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.beanparam.matrix.plain.JAXRSClientIT: 18
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.beanparam.path.plain.JAXRSClientIT: 18
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.beanparam.plain.JAXRSClientIT: 14
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.beanparam.query.plain.JAXRSClientIT: 18
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.client.asyncinvoker.JAXRSClientIT: 147
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.client.clientrequestcontext.JAXRSClientIT: 4
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.client.invocationbuilder.JAXRSClientIT: 15
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.client.syncinvoker.JAXRSClientIT: 98
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.constrainedto.JAXRSClientIT: 8
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.container.requestcontext.JAXRSClientIT: 40
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.container.requestcontext.illegalstate.JAXRSClientIT: 6
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.container.requestcontext.security.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.container.resourceinfo.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.container.responsecontext.JAXRSClientIT: 58
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.cookieparam.JAXRSClientIT: 17
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.cookieparam.locator.JAXRSLocatorClientIT: 9
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.cookieparam.sub.JAXRSSubClientIT: 17
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.core.application.JAXRSClientIT: 4
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.core.configurable.JAXRSClientIT: 21
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.core.configuration.JAXRSClientIT: 4
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.core.headers.JAXRSClientIT: 11
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.core.request.JAXRSClientIT: 28
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.core.response.JAXRSClientIT: 68
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.core.responsebuilder.JAXRSClientIT: 1
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.core.securitycontext.basic.JAXRSBasicClientIT: 5
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.core.uriinfo.JAXRSClientIT: 19
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.delete.JAXRSClientIT: 4
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.ext.interceptor.clientwriter.interceptorcontext.JAXRSClientIT: 15
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.ext.interceptor.clientwriter.writerinterceptorcontext.JAXRSClientIT: 9
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.ext.interceptor.containerreader.interceptorcontext.JAXRSClientIT: 15
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.ext.interceptor.containerreader.readerinterceptorcontext.JAXRSClientIT: 7
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.ext.interceptor.containerwriter.interceptorcontext.JAXRSClientIT: 15
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.ext.interceptor.containerwriter.writerinterceptorcontext.JAXRSClientIT: 9
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.ext.paramconverter.JAXRSClientIT: 27
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.ext.providers.JAXRSProvidersClientIT: 21
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.formparam.JAXRSClientIT: 22
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.formparam.locator.JAXRSLocatorClientIT: 8
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.formparam.sub.JAXRSSubClientIT: 21
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.get.JAXRSClientIT: 9
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.head.JAXRSClientIT: 4
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.headerparam.JAXRSClientIT: 25
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.headerparam.locator.JAXRSLocatorClientIT: 17
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.headerparam.sub.JAXRSSubClientIT: 25
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.matrixparam.JAXRSClientIT: 26
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.matrixparam.locator.JAXRSLocatorClientIT: 17
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.matrixparam.sub.JAXRSSubClientIT: 26
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.options.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.pathparam.JAXRSClientIT: 16
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.pathparam.locator.JAXRSLocatorClientIT: 13
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.pathparam.sub.JAXRSSubClientIT: 16
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.produceconsume.JAXRSClientIT: 20
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.put.JAXRSClientIT: 3
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.queryparam.JAXRSClientIT: 27
+Total passed for ee.jakarta.tck.ws.rs.ee.rs.queryparam.sub.JAXRSSubClientIT: 27
+Total passed for ee.jakarta.tck.ws.rs.jaxrs21.api.client.invocationbuilder.JAXRSClientIT: 4
+Total passed for ee.jakarta.tck.ws.rs.jaxrs21.ee.client.executor.rx.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.jaxrs21.ee.client.rxinvoker.JAXRSClientIT: 59
+Total passed for ee.jakarta.tck.ws.rs.jaxrs21.ee.patch.server.JAXRSClientIT: 1
+Total passed for ee.jakarta.tck.ws.rs.jaxrs21.ee.priority.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.jaxrs21.ee.sse.ssebroadcaster.JAXRSClientIT: 1
+Total passed for ee.jakarta.tck.ws.rs.jaxrs21.ee.sse.sseeventsink.JAXRSClientIT: 15
+Total passed for ee.jakarta.tck.ws.rs.jaxrs21.ee.sse.sseeventsource.JAXRSClientIT: 16
+Total passed for ee.jakarta.tck.ws.rs.jaxrs21.spec.classsubresourcelocator.JAXRSClientIT: 1
+Total passed for ee.jakarta.tck.ws.rs.jaxrs21.spec.completionstage.JAXRSClientIT: 1
+Total passed for ee.jakarta.tck.ws.rs.jaxrs31.ee.multipart.MultipartSupportIT: 2
+Total passed for ee.jakarta.tck.ws.rs.jaxrs31.spec.extensions.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.jaxrs40.ee.rs.core.uriinfo.UriInfo40ClientIT: 4
+Total passed for ee.jakarta.tck.ws.rs.sebootstrap.SeBootstrapIT: 7
+Total passed for ee.jakarta.tck.ws.rs.servlet3.rs.applicationpath.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.servlet3.rs.core.streamingoutput.JAXRSClientIT: 3
+Total passed for ee.jakarta.tck.ws.rs.servlet3.rs.ext.paramconverter.autodiscovery.JAXRSClientIT: 1
+Total passed for ee.jakarta.tck.ws.rs.signaturetest.jaxrs.JAXRSSigTestIT: 1
+Total passed for ee.jakarta.tck.ws.rs.spec.client.exceptions.ClientExceptionsIT: 1
+Total passed for ee.jakarta.tck.ws.rs.spec.client.instance.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.spec.client.invocations.JAXRSClientIT: 5
+Total passed for ee.jakarta.tck.ws.rs.spec.client.resource.JAXRSClientIT: 1
+Total passed for ee.jakarta.tck.ws.rs.spec.client.typedentities.JAXRSClientIT: 19
+Total passed for ee.jakarta.tck.ws.rs.spec.client.typedentitieswithxmlbinding.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.spec.client.webtarget.JAXRSClientIT: 6
+Total passed for ee.jakarta.tck.ws.rs.spec.context.client.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.spec.context.server.JAXRSClientIT: 5
+Total passed for ee.jakarta.tck.ws.rs.spec.contextprovider.JsonbContextProviderIT: 1
+Total passed for ee.jakarta.tck.ws.rs.spec.filter.dynamicfeature.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.spec.filter.exception.JAXRSClientIT: 13
+Total passed for ee.jakarta.tck.ws.rs.spec.filter.globalbinding.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.spec.filter.interceptor.JAXRSClientIT: 42
+Total passed for ee.jakarta.tck.ws.rs.spec.filter.lastvalue.JAXRSClientIT: 4
+Total passed for ee.jakarta.tck.ws.rs.spec.filter.namebinding.JAXRSClientIT: 6
+Total passed for ee.jakarta.tck.ws.rs.spec.inheritance.JAXRSClientIT: 2
+Total passed for ee.jakarta.tck.ws.rs.spec.provider.exceptionmapper.JAXRSClientIT: 7
+Total passed for ee.jakarta.tck.ws.rs.spec.provider.jaxbcontext.JAXRSClientIT: 1
+Total passed for ee.jakarta.tck.ws.rs.spec.provider.overridestandard.JAXRSClientIT: 13
+Total passed for ee.jakarta.tck.ws.rs.spec.provider.reader.JAXRSClientIT: 5
+Total passed for ee.jakarta.tck.ws.rs.spec.provider.sort.JAXRSClientIT: 4
+Total passed for ee.jakarta.tck.ws.rs.spec.provider.standard.JAXRSClientIT: 8
+Total passed for ee.jakarta.tck.ws.rs.spec.provider.standardhaspriority.JAXRSClientIT: 5
+Total passed for ee.jakarta.tck.ws.rs.spec.provider.standardnotnull.JAXRSClientIT: 27
+Total passed for ee.jakarta.tck.ws.rs.spec.provider.standardwithjaxrsclient.JAXRSClientIT: 11
+Total passed for ee.jakarta.tck.ws.rs.spec.provider.standardwithxmlbinding.JAXRSClientIT: 1
+Total passed for ee.jakarta.tck.ws.rs.spec.provider.visibility.JAXRSClientIT: 4
+Total passed for ee.jakarta.tck.ws.rs.spec.provider.writer.JAXRSClientIT: 5
+Total passed for ee.jakarta.tck.ws.rs.spec.resource.annotationprecedence.JAXRSClientIT: 10
+Total passed for ee.jakarta.tck.ws.rs.spec.resource.annotationprecedence.subclass.JAXRSClientIT: 12
+Total passed for ee.jakarta.tck.ws.rs.spec.resource.locator.JAXRSClientIT: 1
+Total passed for ee.jakarta.tck.ws.rs.spec.resource.requestmatching.JAXRSClientIT: 39
+Total passed for ee.jakarta.tck.ws.rs.spec.resource.responsemediatype.JAXRSClientIT: 17
+Total passed for ee.jakarta.tck.ws.rs.spec.resource.valueofandfromstring.JAXRSClientIT: 10
+Total passed for ee.jakarta.tck.ws.rs.spec.resourceconstructor.JAXRSClientIT: 9
+Total passed for ee.jakarta.tck.ws.rs.spec.returntype.JAXRSClientIT: 10
+Total passed for ee.jakarta.tck.ws.rs.spec.template.JAXRSClientIT: 6
+Total passed for ee.jakarta.tck.ws.rs.uribuilder.UriBuilderIT: 4
+Total passed: 2675
+
+No FAILED tests found.
+
+No ERROR tests found.
+
+Skipped Tests:
+Total skipped for ee.jakarta.tck.ws.rs.api.rs.core.uribuilder.JAXRSClientIT: 1
+Total skipped for ee.jakarta.tck.ws.rs.ee.rs.core.uriinfo.JAXRSClientIT: 1
+Total skipped for ee.jakarta.tck.ws.rs.jaxrs21.ee.client.executor.async.JAXRSClientIT: 57
+Total skipped for ee.jakarta.tck.ws.rs.jaxrs21.ee.client.executor.rx.JAXRSClientIT: 29
+Total skipped for ee.jakarta.tck.ws.rs.jaxrs21.ee.client.rxinvoker.JAXRSClientIT: 39
+Total skipped for ee.jakarta.tck.ws.rs.jaxrs21.ee.sse.sseeventsource.JAXRSClientIT: 1
+Total skipped: 128
+
+
+*******************************************************************
+Total: 2803 - PASSED: 2675 - FAILED: 0 - ERRORS: 0 - SKIPPED: 128
+*******************************************************************
