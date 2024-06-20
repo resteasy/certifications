@@ -1,0 +1,81 @@
+openjdk version "21.0.3" 2024-04-16
+OpenJDK Runtime Environment (Red_Hat-21.0.3.0.9-1) (build 21.0.3+9)
+OpenJDK 64-Bit Server VM (Red_Hat-21.0.3.0.9-1) (build 21.0.3+9, mixed mode, sharing)
+
+Passed Tests:
+Total passed for org.eclipse.microprofile.rest.client.tck.AdditionalRegistrationTest: 8
+Total passed for org.eclipse.microprofile.rest.client.tck.BeanParamTest: 1
+Total passed for org.eclipse.microprofile.rest.client.tck.CallMultipleMappersTest: 1
+Total passed for org.eclipse.microprofile.rest.client.tck.ClientBuilderHeaderTest: 3
+Total passed for org.eclipse.microprofile.rest.client.tck.ClientHeaderParamTest: 14
+Total passed for org.eclipse.microprofile.rest.client.tck.ClientHeadersFactoryTest: 1
+Total passed for org.eclipse.microprofile.rest.client.tck.ClientReuseTest: 1
+Total passed for org.eclipse.microprofile.rest.client.tck.CloseTest: 4
+Total passed for org.eclipse.microprofile.rest.client.tck.CustomHttpMethodTest: 1
+Total passed for org.eclipse.microprofile.rest.client.tck.DefaultExceptionMapperConfigTest: 1
+Total passed for org.eclipse.microprofile.rest.client.tck.DefaultExceptionMapperTest: 4
+Total passed for org.eclipse.microprofile.rest.client.tck.DefaultMIMETypeTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.EntityPartTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.ExceptionMapperTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.FeatureRegistrationTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.FilterPriorityTest: 1
+Total passed for org.eclipse.microprofile.rest.client.tck.FollowRedirectsTest: 8
+Total passed for org.eclipse.microprofile.rest.client.tck.InheritanceTest: 3
+Total passed for org.eclipse.microprofile.rest.client.tck.InvalidInterfaceTest: 11
+Total passed for org.eclipse.microprofile.rest.client.tck.InvokeSimpleGetOperationTest: 1
+Total passed for org.eclipse.microprofile.rest.client.tck.InvokeWithBuiltProvidersTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.InvokeWithJsonPProviderTest: 4
+Total passed for org.eclipse.microprofile.rest.client.tck.InvokeWithRegisteredProvidersTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.InvokedMethodTest: 1
+Total passed for org.eclipse.microprofile.rest.client.tck.MultiRegisteredTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.ProducesConsumesTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.ProvidesRestClientBuilderTest: 3
+Total passed for org.eclipse.microprofile.rest.client.tck.ProxyServerTest: 5
+Total passed for org.eclipse.microprofile.rest.client.tck.QueryParamStyleTest: 4
+Total passed for org.eclipse.microprofile.rest.client.tck.RestClientBuilderListenerTest: 1
+Total passed for org.eclipse.microprofile.rest.client.tck.RestClientListenerTest: 1
+Total passed for org.eclipse.microprofile.rest.client.tck.SubResourceTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.asynctests.AsyncMethodTest: 4
+Total passed for org.eclipse.microprofile.rest.client.tck.asynctests.CDIInvokeAsyncSimpleGetOperationTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.CDIClientHeadersFactoryTest: 1
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.CDIFollowRedirectsTest: 8
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.CDIInterceptorTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.CDIInvokeSimpleGetOperationTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.CDIInvokeWithRegisteredProvidersTest: 6
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.CDIManagedProviderTest: 4
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.CDIProxyServerTest: 1
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.CDIQueryParamStyleTest: 4
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.CDIURIvsURLConfigTest: 3
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.ClientClosedTest: 3
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.ConfigKeyForMultipleInterfacesTest: 1
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.ConfigKeyTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.HasAppScopeTest: 3
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.HasConversationScopeTest: 3
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.HasRequestScopeTest: 3
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.HasSessionScopeTest: 3
+Total passed for org.eclipse.microprofile.rest.client.tck.cditests.HasSingletonScopeTest: 3
+Total passed for org.eclipse.microprofile.rest.client.tck.jsonb.InvokeWithJsonBProviderTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.sse.BasicReactiveStreamsTest: 6
+Total passed for org.eclipse.microprofile.rest.client.tck.sse.ReactiveStreamsPublisherTckTest: 25
+Total passed for org.eclipse.microprofile.rest.client.tck.ssl.SslContextTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.ssl.SslHostnameVerifierTest: 7
+Total passed for org.eclipse.microprofile.rest.client.tck.ssl.SslMutualTest: 7
+Total passed for org.eclipse.microprofile.rest.client.tck.ssl.SslTrustStoreTest: 7
+Total passed for org.eclipse.microprofile.rest.client.tck.timeout.TimeoutBuilderIndependentOfMPConfigTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.timeout.TimeoutTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.timeout.TimeoutViaMPConfigTest: 2
+Total passed for org.eclipse.microprofile.rest.client.tck.timeout.TimeoutViaMPConfigWithConfigKeyTest: 2
+Total passed: 222
+
+No FAILED tests found.
+
+No ERROR tests found.
+
+Skipped Tests:
+Total skipped for org.eclipse.microprofile.rest.client.tck.sse.ReactiveStreamsPublisherTckTest: 13
+Total skipped: 13
+
+
+****************************************************************
+Total: 235 - PASSED: 222 - FAILED: 0 - ERRORS: 0 - SKIPPED: 13
+****************************************************************
