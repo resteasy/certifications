@@ -7,11 +7,11 @@ image:resteasy_logo_100x.png[RESTeasy, align="center"]
 [[introduction]]
 == Introduction
 As required by the https://www.eclipse.org/legal/tck.php[Eclipse Foundation Technology Compatibility Kit License], the
-following is a summary of the TCK results for release of RESTEasy MicroProfile 3.0.0.Alpha1.
+following is a summary of the TCK results for release of RESTEasy MicroProfile 3.0.0.Beta1.
 
 
 === RESTEasy, MicroProfile Rest Client 4.0 Certification Summary
-* Date: June 18, 2024
+* Date: July 8, 2024
 
 * Organization Name: Red Hat, Inc.
 
@@ -19,24 +19,24 @@ following is a summary of the TCK results for release of RESTEasy MicroProfile 3
 ** Product Name: RERESTEasy MicroProfile
 ** Product Version: RESTEasy MicroProfile 3.0.0.Alpha1
 ** URL to product download page:
-*** https://repository.jboss.org/org/jboss/resteasy/microprofile/microprofile-rest-client/3.0.0.Alpha1/microprofile-rest-client-3.0.0.Alpha1.jar
-*** https://repository.jboss.org/org/jboss/resteasy/microprofile/microprofile-rest-client-base/3.0.0.Alpha1/microprofile-rest-client-base-3.0.0.Alpha1.jar
+*** https://repository.jboss.org/org/jboss/resteasy/microprofile/microprofile-rest-client/3.0.0.Beta1/microprofile-rest-client-3.0.0.Beta1.jar
+*** https://repository.jboss.org/org/jboss/resteasy/microprofile/microprofile-rest-client-base/3.0.0.Beta1/microprofile-rest-client-base-3.0.0.Beta1.jar
 
 * Specification Name, Version and download URL:
-** https://download.eclipse.org/microprofile/microprofile-rest-client-4.0-RC1/microprofile-rest-client-spec-4.0-RC1.html[Eclipse MicroProfile REST Client 4.0]
-** https://download.eclipse.org/microprofile/microprofile-rest-client-4.0-RC1/[Download]
+** https://download.eclipse.org/microprofile/microprofile-rest-client-4.0/microprofile-rest-client-spec-4.0.html[Eclipse MicroProfile REST Client 4.0]
+** https://download.eclipse.org/microprofile/microprofile-rest-client-4.0/[Download]
 
 * TCK Version, digital SHA-256 fingerprint and download URL:
-** https://www.eclipse.org/downloads/download.php?file=/microprofile/microprofile-rest-client-4.0-RC1/microprofile-rest-client-tck-4.0-RC1.jar[MicroProfile REST Client TCK 4.0.0],
-** SHA-256: 6ed4c8920cb98c6d62c91cc4a11230c7f9273b11dd518f090158bbcb686142d8
+** https://www.eclipse.org/downloads/download.php?file=/microprofile/microprofile-rest-client-4.0-RC1/microprofile-rest-client-tck-4.0.jar[MicroProfile REST Client TCK 4.0.0],
+** SHA-256: 81af375035e5d2fd4cc5555f0a85aea1776ba772f43f3e8e48ebc54d4262c1a8
 
 * Implementation runtime Version(s) tested
-** https://github.com/resteasy/resteasy-microprofile[RESTEasy MicroProfile 3.0.0.Alpha1]
+** https://github.com/resteasy/resteasy-microprofile[RESTEasy MicroProfile 3.0.0.Beta1]
 
 * Public URL of TCK Results Summary:
-** Java SE 11 link:tck-results/jdk-11.txt[RESTEasy MicroProfile 3.0.0.Alpha1 TCK results]
-** Java SE 17 link:tck-results/jdk-17.txt[RESTEasy MicroProfile 3.0.0.Alpha1 TCK results]
-** Java SE 21 link:tck-results/jdk-21.txt[RESTEasy MicroProfile 3.0.0.Alpha1 TCK results]
+** Java SE 11 link:tck-results/jdk-11.txt[RESTEasy MicroProfile 3.0.0.Beta1 TCK results]
+** Java SE 17 link:tck-results/jdk-17.txt[RESTEasy MicroProfile 3.0.0.Beta1 TCK results]
+** Java SE 21 link:tck-results/jdk-21.txt[RESTEasy MicroProfile 3.0.0.Beta1 TCK results]
 
 * Java runtime used to run the implementation:
 ** OpenJDK Runtime Environment (Red_Hat-11.0.23.0.9-1) (build 11.0.23+9)
