@@ -23,11 +23,11 @@ following is a summary of the TCK results for release of RESTEasy MicroProfile 3
 *** https://repository.jboss.org/org/jboss/resteasy/microprofile/microprofile-rest-client-base/3.0.0.Beta1/microprofile-rest-client-base-3.0.0.Beta1.jar
 
 * Specification Name, Version and download URL:
-** https://download.eclipse.org/microprofile/microprofile-rest-client-4.0/microprofile-rest-client-spec-4.0.html[Eclipse MicroProfile REST Client 4.0]
-** https://download.eclipse.org/microprofile/microprofile-rest-client-4.0/[Download]
+** https://oss.sonatype.org/content/repositories/orgeclipsemicroprofile-1694/org/eclipse/microprofile/rest/client/microprofile-rest-client-spec/4.0/microprofile-rest-client-spec-4.0.html[Eclipse MicroProfile REST Client 4.0]
+** https://oss.sonatype.org/content/repositories/orgeclipsemicroprofile-1694/org/eclipse/microprofile/rest/client/microprofile-rest-client-spec/4.0/[Download]
 
 * TCK Version, digital SHA-256 fingerprint and download URL:
-** https://www.eclipse.org/downloads/download.php?file=/microprofile/microprofile-rest-client-4.0-RC1/microprofile-rest-client-tck-4.0.jar[MicroProfile REST Client TCK 4.0.0],
+** https://oss.sonatype.org/content/repositories/orgeclipsemicroprofile-1694/org/eclipse/microprofile/rest/client/microprofile-rest-client-api/4.0/microprofile-rest-client-api-4.0.jar[MicroProfile REST Client TCK 4.0.0],
 ** SHA-256: 81af375035e5d2fd4cc5555f0a85aea1776ba772f43f3e8e48ebc54d4262c1a8
 
 * Implementation runtime Version(s) tested
