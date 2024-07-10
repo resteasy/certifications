@@ -27,8 +27,8 @@ following is a summary of the TCK results for release of RESTEasy MicroProfile 3
 ** https://oss.sonatype.org/content/repositories/orgeclipsemicroprofile-1702/org/eclipse/microprofile/rest/client/[Download]
 
 * TCK Version, digital SHA-256 fingerprint and download URL:
-** https://oss.sonatype.org/content/repositories/orgeclipsemicroprofile-1702/org/eclipse/microprofile/rest/client/microprofile-rest-client-api/4.0/microprofile-rest-client-api-4.0.jar[MicroProfile REST Client TCK 4.0.0],
-** SHA-256: 81af375035e5d2fd4cc5555f0a85aea1776ba772f43f3e8e48ebc54d4262c1a8
+** https://oss.sonatype.org/content/repositories/orgeclipsemicroprofile-1702/org/eclipse/microprofile/rest/client/microprofile-rest-client-tck/4.0/microprofile-rest-client-tck-4.0.jar[MicroProfile REST Client TCK 4.0.0],
+** SHA-256: 751dae3684e08bbfd8fc51d60ef39b0a27662a1776b5305545f6c4bf42888813
 
 * Implementation runtime Version(s) tested
 ** https://github.com/resteasy/resteasy-microprofile[RESTEasy MicroProfile 3.0.0.Beta1]
